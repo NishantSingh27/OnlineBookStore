@@ -23,7 +23,7 @@ public class Main {
         bookstore.addBook(book2);
         bookstore.addBook(books3);
 
-        // Display information about books in the bookstore
+        // display information about books in the bookstore
         System.out.println("Books available in the Online Bookstore:");
         bookstore.displayBooks();
 	}
